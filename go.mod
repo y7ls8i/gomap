@@ -1,4 +1,4 @@
-module github.com/ybs-github/gomap
+module github.com/y7ls8i/gomap
 
 go 1.17
 

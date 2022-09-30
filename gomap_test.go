@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/ybs-github/gomap"
+	"github.com/y7ls8i/gomap"
 
-	"testing"
 	. "github.com/smartystreets/goconvey/convey"
+	"testing"
 )
 
 func TestGoMap(t *testing.T) {

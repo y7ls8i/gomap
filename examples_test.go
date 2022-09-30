@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/ybs-github/gomap"
+	"github.com/y7ls8i/gomap"
 )
 
 func Example() {
